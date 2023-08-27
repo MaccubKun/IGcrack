@@ -1,2 +1,2 @@
 # IGcrack
-This Script is Free
+This Script a Free
