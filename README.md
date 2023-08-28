@@ -14,10 +14,19 @@ $ pip install futures
 
 $ git clone https://github.com/MaccubKun/IGcrack
 
-$ cd igmvb
+$ cd IGcrack
 
 $ ls
 
 $ python IGCrack.py
+
+# Cara Update sc
+
+$ cd 
+
+$ git pull
+
+
+# Enjoyyyy
 
 This Script a Free
