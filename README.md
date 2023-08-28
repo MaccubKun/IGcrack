@@ -18,6 +18,6 @@ $ cd igmvb
 
 $ ls
 
-$ python IGcrack.py
+$ python IGCrack.py
 
 This Script a Free
